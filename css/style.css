@@ -620,6 +620,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 36px;
 }
 
+.jumbotron h5 {
+  color: #fff;
+}
+
 /* Our 7 Governance Principles of EUBCHUB Serbia
 --------------------------------*/
 
